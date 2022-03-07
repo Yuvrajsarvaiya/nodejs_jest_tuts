@@ -1,0 +1,13 @@
+{
+  "name": "nodejs_jest_tuts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuvraj",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
